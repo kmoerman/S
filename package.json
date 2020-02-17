@@ -1,0 +1,19 @@
+{
+  "name": "s",
+  "version": "0.1.0",
+  "description": "JS syntax framework",
+  "main": "main.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoerman/s.git"
+  },
+  "author": "Klaas Moerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmoerman/s/issues"
+  },
+  "homepage": "https://github.com/kmoerman/s#readme"
+}
